@@ -3,9 +3,9 @@ package base
 import "fmt"
 
 type B struct {
-	B int64
+	B string
 }
 
 func Print(b B) {
-	fmt.Println("base2")
+	fmt.Println("base3")
 }
